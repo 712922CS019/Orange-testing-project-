@@ -1,5 +1,7 @@
 Testing OrangeHRM Demo
 
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
 The goal of this project is to perform comprehensive testing of the Myinfo module and login functionality on the OrangeHRM Demo platform. The project will utilize data-driven testing techniques to ensure thorough coverage and efficient test execution. The project will make use of various tools and libraries such as WebDriverManager, Selenium framework, Pytest framework, Pytest-xdist plugin, Pytest-html plugin, and Openpyxl library.
 
 Project Features:
